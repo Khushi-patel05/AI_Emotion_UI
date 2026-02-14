@@ -1,21 +1,14 @@
-# 🎀 AI Pastel Emotion Recognizer (Real-Time)
+# 🎀 AI Emotion Recognizer with Aesthetic UI (Real-Time)
 
-A Real-Time AI-Based Face Emotion Recognition System with a Pastel Aesthetic UI, Live Camera Feed, and Stable Emotion Detection using Computer Vision and Deep Learning.
+An industry-style Real-Time Facial Emotion Recognition application built with Computer Vision and Deep Learning, featuring a pastel aesthetic GUI, live camera feed, and stable emotion prediction.
 
-This project detects facial emotions (Happy, Sad, Surprise, Neutral, etc.) in real-time using a webcam and displays them inside a modern pastel-themed graphical interface.
-
----
-
-## ✨ Key Features
-
-* 🎥 Real-time webcam emotion detection
-* 🎀 Pastel aesthetic GUI (PyQt5 based)
-* 🧠 AI-powered facial emotion recognition
-* 🔲 AI Face Scanner Grid Overlay (Futuristic UI)
-* 📸 Screenshot capture functionality
-* 📊 Stable emotion smoothing (less flickering)
-* 🛡️ Isolated virtual environment (safe setup)
-* 💻 GitHub-ready clean project structure
+## 🚀 Live Features
+- 🎥 Real-time webcam emotion detection
+- 🎀 Pastel aesthetic user interface (PyQt5)
+- 🧠 Stable AI emotion prediction (Happy, Sad, Surprise, Neutral, etc.)
+- 🔲 Face Scanner Grid Overlay (Futuristic UI)
+- 📸 Screenshot capture functionality
+- ⚡ Optimized performance with emotion smoothing
 
 ---
 
