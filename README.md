@@ -22,19 +22,6 @@ An industry-style Real-Time Facial Emotion Recognition application built with Co
 
 ---
 
-## 📂 Project Structure
-
-AI_Emotion_UI/
-│
-├── main.py                # Pastel UI & Application Controller
-├── emotion_engine.py      # Emotion Detection + Face Grid Logic
-├── requirements.txt       # Project Dependencies
-├── README.md              # Project Documentation
-├── .gitignore             # Ignored Files (venv, cache, etc.)
-└── screenshots/           # Captured screenshots (optional)
-
----
-
 ## 🎯 Project Objective
 
 The main objective of this project is to develop an industry-style AI application that:
